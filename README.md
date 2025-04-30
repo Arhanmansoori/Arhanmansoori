@@ -17,7 +17,7 @@ preview
 <h1 align="center">Hi 👋, I'm MD ARHAN MANSOORI</h1>
 <h3 align="center">A passionate AI-ML Engineer</h3>
 
-- 🔭 I’m currently working on **resume Parser**
+- 🔭 I’m currently working on **resume Parser with Local AI approach**
 
 - 👯 I’m looking to collaborate on **AI-ML Projects**
 
