@@ -12,7 +12,7 @@
 - 🧠 Skilled in **LLMs**, **NLP**, **Computer Vision**, and **Backend APIs**
 - 💡 I transform data into intelligent systems that solve real-world problems
 - 🌐 Freelancing globally for **AI automation** and **data engineering**
-- 📫 Reach out at: **arhanmansoori2002@gmail.com**
+- 📫 Reach out at: **arhanmansoori12345@gmail.com**
 
 ---
 
