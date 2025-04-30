@@ -9,9 +9,9 @@
 
 ### 🔍 About Me
 - 🔭 Currently building **Resume Parser using Local AI (Ollama + Qwen2)**
-- 💡 I specialize in **LLMs**, **NLP**, **Computer Vision**, and **Data-driven Backend APIs**
-- 🧪 Passionate about building **AI-powered systems** that solve real-world problems
-- 🌐 Freelancing globally for **data engineering & AI integration**
+- 🧠 Skilled in **LLMs**, **NLP**, **Computer Vision**, and **Backend APIs**
+- 💡 I transform data into intelligent systems that solve real-world problems
+- 🌐 Freelancing globally for **AI automation** and **data engineering**
 - 📫 Reach out at: **arhanmansoori2002@gmail.com**
 
 ---
@@ -31,29 +31,38 @@
 
 ---
 
-### 🧰 My Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,html,css,js,linux,git,docker,tensorflow,pytorch,postman" />
+### ⚙️ My Tech Stack
+
+#### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript" />
 </p>
 
----
+#### 🧠 AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" />
+</p>
 
-### ⚙️ Tools & Platforms I Use
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+#### 🧰 Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,postman" />
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" />
+</p>
+
+#### ⚙️ DevOps & OS
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
 </p>
 
 ---
@@ -70,7 +79,6 @@
 ---
 
 ### 💡 Fun Fact
-> I turn unstructured data like PDFs, resumes & diagrams into **AI-understandable gold** 🧠✨
+> I turn unstructured data — from resumes and PDFs to images and raw logs — into AI-ready insights 🚀
 
 ---
-
