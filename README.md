@@ -1,21 +1,38 @@
-<h1 align="center">Hi 👋, I'm MD ARHAN MANSOORI</h1>
-<h3 align="center">A passionate AI-ML Engineer</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#0078D4;">MD ARHAN MANSOORI</span></h1>
+<h3 align="center">🚀 AI-ML Engineer | Passionate about building intelligent systems</h3>
 
-- 🔭 I’m currently working on **resume Parser with Local AI approach**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78D1E&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Backend+Development" alt="Typing SVG" />
+</p>
 
-- 👯 I’m looking to collaborate on **AI-ML Projects**
+---
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **<strong>Resume Parser using Local AI (Ollama + Qwen2)</strong>**
+- 🤝 I’m open to **collaborating on AI-ML projects**, open-source tools, or research work
+- 💬 Ask me about **FastAPI**, **LLMs**, **Computer Vision**, **PDF/Image Understanding**
+- 📫 How to reach me: <strong>arhanmansoori2002@gmail.com</strong>
+- 🌐 Portfolio coming soon...
+
+---
+
+<h3 align="left">📲 Connect with me</h3>
 <p align="left">
-  <!-- YouTube -->
   <a href="https://www.youtube.com/@technicalarhanmansoori" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="30" width="40" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
-  
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/md-arhan-mansoori-8983791a8/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:arhanmansoori2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">⚙️ Tech Stack</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,postgresql,mysql,linux,docker,git,html,css,javascript" />
 </p>
 
 
