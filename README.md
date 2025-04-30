@@ -7,10 +7,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@technicalarhanmansoori" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube channel" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="30" width="40" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/md-arhan-mansoori-8983791a8/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
